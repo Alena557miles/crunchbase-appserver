@@ -9,8 +9,8 @@ In the project directory, you can run:
 
 Server will start on  [http://localhost:8080](http://localhost:8080) 
 
+To get app use:
+[https://github.com/Alena557miles/crunchbase-app](https://github.com/Alena557miles/crunchbase-app)
+
 Then run the app `npm start` from app's directory 
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-to get app use:
-[https://github.com/Alena557miles/crunchbase-app](https://github.com/Alena557miles/crunchbase-app)
